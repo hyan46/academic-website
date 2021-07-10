@@ -11,6 +11,7 @@ content:
   user_groups:
     # - Principal Investigators
     - Current Ph.D. Students
+    - Ph.D. Students
     - MS Students
     - Graduated Ph.D. Students
     - Graduated MS Students

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduated Ph.D. Students in 2021
+role: Ph.D. Students 
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ email: "haoyan@asu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduated Ph.D. Students
+- Ph.D. Students
 ---
 # Research Interest
 
