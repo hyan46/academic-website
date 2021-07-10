@@ -7,10 +7,11 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Awards'
+active: false
 subtitle:
 
 # Date format
@@ -23,14 +24,19 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://connect.informs.org/communities/community-home/digestviewer/viewthread?MessageKey=113f917a-dc69-44ff-8ee9-e23456183780&CommunityKey=1d5653fa-85c8-46b3-8176-869b140e5e3c&tab=digestviewer
+  date_start: "2020-11-04"
+  description: "2020 INFORMS Data Mining Section Best Paper Competition Finalist"
+  title: 2020 IISE Transactions Focus Issue on Quality and Reliability Engineering
+  organization: INFORMS
+- certificate_url: https://www.iise.org/awards.aspx?id=10802
   date_end: ""
   date_start: "2021-01-25"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  organization: IISE Transactions
+  organization_url: https://www.iise.org
+  title: 2020 IISE Transactions Focus Issue on Quality and Reliability Engineering
+  url: "https://www.iise.org/awards.aspx?id=10802"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2021-01-01"

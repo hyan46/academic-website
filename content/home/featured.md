@@ -22,7 +22,7 @@ content:
     author: ""
     category: ""
     publication_type: ""
-    tag: ""
+    tag: "featured"
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 

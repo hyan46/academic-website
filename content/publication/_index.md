@@ -1,4 +1,7 @@
 ---
+title: "Publication Home"
+author: ["Hao Yan"]
+draft: false
 title: Publications
 cms_exclude: true
 
